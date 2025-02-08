@@ -25,6 +25,7 @@ motor
 mutagen
 markdown
 natsort
+pytz
 pillow
 psutil
 pybase64
